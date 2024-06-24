@@ -4,8 +4,8 @@
   "description": "traq_api",
   "main": "app.js",
   "scripts": {
-    "test": "test",
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "test"
   },
   "keywords": [
     "traq"
